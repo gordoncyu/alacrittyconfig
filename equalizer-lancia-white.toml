@@ -1,0 +1,15 @@
+import = ["/home/gordo/.config/alacritty/flexoki-dark.toml"]
+
+[colors.primary]
+background = "#afb0af"
+foreground = "#c5c8c6"
+
+[font]
+size = 11
+
+[font.normal]
+family = "DejaVuSansM Nerd Font Mono"
+
+[window.padding]
+x = 10
+y = 10
